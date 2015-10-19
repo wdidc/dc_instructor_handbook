@@ -1,7 +1,5 @@
 # Weekly Planning
 
-Our standard moving forward:
-
 - First draft of lesson plan is submitted 24 hours prior to delivery
 - Lesson plan reviews 12 hours prior to delivery
 - Learning objectives are agreed upon before Thursday @ 6pm
@@ -18,7 +16,7 @@ once before delivery.
 
 ## Getting Help
 
-Jesse wants you to struggle a little bit. 
+Jesse wants you to struggle a little bit.
 
 Struggling includes but is not limited to:
 

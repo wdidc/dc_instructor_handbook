@@ -11,8 +11,12 @@ Section                              | Description
 [Operations](02-operations.md)       | How we produce WDI operationally
 [Class Management](03-class-management.md) | Describes class management for Instructors
 [Instructor Roles & Responsibilities ](04-instructor-roles.md) | Itemizes the roles for Instructors and indicates expected responsibilities
-[Student Management](05-student-management) | Discusses keys for student happiness 
+[Student Management](05-student-management) | Discusses keys for student happiness
+[Weekly Planning](06-weekly-planning) | Weekly Planning Guideline
 
----
+## Instructor Tools
 
-Start by reading about our [course planning process](00-planning.md).
+Section                              | Description
+-----------------------------------  | ------------
+[Lesson GitBook](InstructorTools/00-lesson-gitbook.md) | Info pertaining to the Curriculum GitBook
+[wdidc.org](InstructorTools/01-wdidc.org.md) | Hosted apps/services
