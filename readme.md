@@ -1,8 +1,8 @@
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-## WDI Handbook > *Local Process*
+## WDI Handbook for DC
 
-This section details core processes that apply to how you will run WDI in your city.
+This section details core processes that apply to how we run WDI in DC.  These are addenda to or clarification of the [GA Corporate Handbook](https://github.com/GA-WDI/handbook)
 
 Section                              | Description
 -----------------------------------  | ------------
