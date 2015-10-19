@@ -22,9 +22,25 @@
 
 ### Lesson Delivery Checklist
 
+#### Pre-Delivery
+
+- Slack open to appropriate classroom
+- Clean Whiteboard
+- LOs on WhiteBoard
+- Lesson open
+- [optional] Terminal open (dark on light)
+- [optional] Atom open (dark on light)
+- Ensure computer doesn’t “sleep” during - lesson (Caffeine enabled)
+- Do not Disturb or Slack(away)
+- Music ready (for exercises) :notes:
+  - songza.com is recommended
+- Projector setup and working. Mirrored?
+- Slack out lesson url
+
+#### Post-Delivery
+
 - Met with Supporting Instructor 3/4 way through lesson
-- Entered delta and plus "github issue" after completion.
-- Played music during exercises (songza.com is recommended). :notes:
+- Entered delta and plus github issues after completion
 
 ## Homework
 
