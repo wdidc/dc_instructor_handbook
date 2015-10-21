@@ -29,11 +29,14 @@
   - create delta/plus issues for lesson
   - retro with Instructor ~3/4 through Lesson
 - Help timebox
+- Remind Instructor to call breaks
 - Information & tech support during
   - lesson
   - exercises, actively involved
 - keeping up with slack
 - review homework updates (for last class)
+- grab lunch for self and Instructor (Mondays & Wednesdays)
+
 
 ## Assignment Manager
 Manages all assignments that instructors aren't specifically responsible for.
