@@ -11,6 +11,7 @@
   - Timing
   - frequent CFUs
     - with suggested mode (Turn and Talk, etc)
+    - includes group work / use of whiteboard
   - Exercises
   - Homework
   - Sample Questions (for quiz or slips)
